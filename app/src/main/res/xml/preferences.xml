@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:selectable="false"
+        android:title="Description"
+        android:summary="@string/wallpaper_description"/>
+    <ListPreference
+        android:key="touch"
+        android:title="Touch Action"
+        android:entries="@array/touch"
+        android:entryValues="@array/touchID"></ListPreference>
+    <EditTextPreference
+        android:key="color"
+        android:title="Color"></EditTextPreference>
+    <EditTextPreference
+        android:key="touchColor"
+        android:title="Touch Color"></EditTextPreference>
+</PreferenceScreen>
