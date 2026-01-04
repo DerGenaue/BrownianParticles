@@ -13,3 +13,10 @@ The live wallpaper is highly optimized, running on the GPU, to keep the battery 
 To set it up, you might need to use a Wallpaper app (eg. the Google one) since some launchers don't allow installing live wallpapers.
 
 ![1.jpg](metadata/en-US/images/phoneScreenshots/1.jpg)
+
+
+## Dependencies
+
+This App uses the library [GLWallpaperService](https://github.com/GLWallpaperService/GLWallpaperService) (Apache 2.0).  
+Because the lib is old, apparently not available in public repos, and doesn't use gradle, it is simply included as a git submodule and it's source folder is included in the gradle build process.  
+This means that to build this app, you need to have run `git submodule init && git submodule update`.
