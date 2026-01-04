@@ -1,0 +1,5 @@
+This is an Android Live Wallpaper that simulates the appearance of the Brownian motion of particles under a microscope illuminated by colored laser light.
+
+Such observations are a classical physics experiment, but also used eg. in microrheology to measure the viscosity of mucus.
+
+The live wallpaper is highly optimized, running on the GPU, to keep the battery drainage as minimal as possible.

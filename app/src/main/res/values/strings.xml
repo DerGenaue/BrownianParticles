@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">BrownianParticles</string>
-    <string name="wallpaper_description">Wallpaper showing the brownian motion of particles in laser light</string>
+    <string name="app_name">BrownianParticlesWallpaper</string>
+    <string name="wallpaper_description">Live Wallpaper simulating the brownian motion of particles in laser light</string>
 </resources>
