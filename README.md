@@ -1,6 +1,11 @@
 
 # Brownian Particles Android Live Wallpaper
 
+[<img src="https://f-droid.org/badge/get-it-on.png"
+alt="Get it on F-Droid"
+height="80">](https://f-droid.org/packages/io.github.dergenaue.brownianparticles)
+
+
 This is an Android Live Wallpaper that simulates the appearance of the Brownian motion of particles under a microscope illuminated by colored laser light.
 
 Such observations are a classical physics experiment, but also used eg. in microrheology to measure the viscosity of mucus.
